@@ -12,4 +12,4 @@
    [[Manual del Plan de Marketing digital](https://docs.google.com/document/d/1Wbd3NMg2DNfoP-8mi2SsLGyq1AJ1PeJxEIzsDuJJD5w/edit?usp=sharing)]
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
-   [[Ventas Anuales Tecnológicas](https://docs.google.com/spreadsheets/d/15lH66JpK1c1cMGLBZ6fa0gf2emAw1I9hGFrZ2py1P0g/edit?usp=sharing)]
+   [[Ventas Anuales Tecnológicas](https://docs.google.com/spreadsheets/d/14DW92Yc_R04w_1xLivkkehuZEWgLQDKR7Zawg2fEnCM/edit?usp=sharing)]
